@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+   
+    android:orientation="vertical" 
+    android:background="@drawable/main_background">
+
+    <include layout="@layout/microwill_actionbar"/>
+   <ListView 
+       android:id="@+id/mylist"
+       android:layout_width="fill_parent"
+       android:layout_height="0dp"
+       android:layout_weight="1"
+       android:cacheColorHint="#00000000"
+       android:dividerHeight="1dp"
+       android:divider="@drawable/divider_horizontal_holo_light"></ListView>
+   <TextView 
+       android:id="@+id/sceneName"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center_horizontal"
+       android:textSize="20sp"
+       android:textColor="#ffffffff"
+       android:padding="5dp"/>
+   <com.android.bsl.GalleryFlow 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center_vertical"
+	    android:id="@+id/gallery"
+ 	/>
+    
+    
+</LinearLayout>

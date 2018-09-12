@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:orientation="vertical" 
+    android:background="@drawable/deng_background"> 
+
+    <include layout="@layout/microwill_actionbar" />
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical">
+         <ImageView 
+        android:layout_width="200dp" 
+        android:layout_height="240dp"
+        android:scaleType="fitCenter"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="80dp"
+        android:id="@+id/light1"
+        android:src="@drawable/device_wallbtn_close"/>
+          <TextView 
+             android:text="IO1"
+             android:layout_centerHorizontal="true"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textColor="#FFFFFFFF"
+             android:textSize="25sp"
+             android:visibility="invisible"/>
+         
+    </RelativeLayout>
+    <!-- 
+       <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical">
+         <ImageView 
+        android:layout_width="50dp" 
+        android:layout_height="60dp"
+        android:scaleType="fitCenter"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/light2"
+        android:src="@drawable/device_wallbtn_close"/>
+          <TextView 
+             android:text="IO2"
+             android:layout_centerHorizontal="true"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textColor="#FFFFFFFF"
+             android:textSize="25sp"/>
+         <ToggleButton
+             android:id="@+id/control_2"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentRight="true"
+             android:layout_centerVertical="true"
+             android:textOn="关"
+             android:textOff="开"/>
+    </RelativeLayout>
+        <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical">
+         <ImageView 
+        android:layout_width="50dp" 
+        android:layout_height="60dp"
+        android:scaleType="fitCenter"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/light3"
+        android:src="@drawable/device_wallbtn_close"/>
+          <TextView 
+             android:text="IO3"
+             android:layout_centerHorizontal="true"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textColor="#FFFFFFFF"
+             android:textSize="25sp"/>
+         <ToggleButton
+             android:id="@+id/control_3"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentRight="true"
+             android:layout_centerVertical="true"
+             android:textOn="关"
+             android:textOff="开"/>
+    </RelativeLayout>
+        <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical">
+         <ImageView 
+        android:layout_width="50dp" 
+        android:layout_height="60dp"
+        android:scaleType="fitCenter"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/light4"
+        android:src="@drawable/device_wallbtn_close"/>
+         <TextView 
+             android:text="IO4"
+             android:layout_centerHorizontal="true"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textColor="#FFFFFFFF"
+             android:textSize="25sp"/>
+         <ToggleButton
+             android:id="@+id/control_4"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentRight="true"
+             android:layout_centerVertical="true"
+             android:textOn="关"
+             android:textOff="开"/>
+    </RelativeLayout> -->
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp">
+
+        <Button
+            android:id="@+id/sure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:text="自动控制" />
+
+        <ToggleButton
+             android:id="@+id/control_1"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentRight="true"
+             android:layout_centerVertical="true"
+             android:textOn="关"
+             android:textOff="开"/>
+        
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/info_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="30dp"
+        android:textSize="18sp"
+        android:textColor="#000000" />
+    
+
+    </LinearLayout>

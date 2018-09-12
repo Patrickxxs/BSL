@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\xml_input_edit_defult.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\xml\\input_edit_defult.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_computer_close.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\device_computer_close.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_jiasudu.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\jiasudu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\xml_input_edit_middle.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\xml\\input_edit_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_topbar.9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\topbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_shutter_mid.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\device_shutter_mid.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input_top_default.9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\input_top_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tuoluo.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\tuoluo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_3.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_3.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_click_bg.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable\\btn_click_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_yuanchengyaokong.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\yuanchengyaokong.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_7.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_7.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\layout_logo_layout.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\layout\\logo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_set.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\btn_set.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_12.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_12.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_0.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_0.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voice.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_game_bg.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\game_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input_bottom_default.9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\input_bottom_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_jiujing.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\jiujing.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_13.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_13.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_actionbar_separator.9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\img_actionbar_separator.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_2.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_2.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sys_pwd_gateway.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\sys_pwd_gateway.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_range.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\range.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_direct_mapsearch.9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\direct_mapsearch.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_temp.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\device_temp.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\layout_main2.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\layout\\main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tem_background.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\tem_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shake.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\shake.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\layout_microwill_actionbar.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\layout\\microwill_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wendu.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\wendu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\xml_input_edit_top.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\xml\\input_edit_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_actionbar_sift.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\img_actionbar_sift.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_6.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_6.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_wallbtn_close.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\device_wallbtn_close.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input_middle_default.9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\input_middle_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable_etn_bg.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable\\etn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zhinengdianbiao.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\zhinengdianbiao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_apptubiao.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\apptubiao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_actionbar_back.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\img_actionbar_back.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kongqi.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\kongqi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_10.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_10.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_divider_horizontal_holo_light.9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\divider_horizontal_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_jidianqi.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\jidianqi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input_top_pressed.9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\input_top_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_5.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_5.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_normal_smoke.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\device_normal_smoke.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\layout_distance_control.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\layout\\distance_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_normal_pir.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\device_normal_pir.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_background.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\main_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_4.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_4.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_wallbtn_open.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\device_wallbtn_open.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input_middle_pressed.9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\input_middle_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_light.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\light.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loginbackground.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\loginbackground.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_default_lightsensor.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\device_default_lightsensor.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_deng_background.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\deng_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_direct_mapsearch_pressed.9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\direct_mapsearch_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_8.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_8.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\xml_input_edit_bottom.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\xml\\input_edit_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_deng.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\deng.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_computer_open.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\device_computer_open.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\layout_temperature_control.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\layout\\temperature_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\layout_deng_control.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\layout\\deng_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input_bottom_pressed.9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\input_bottom_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_1.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_1.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_11.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_11.png"
+    }
+]
