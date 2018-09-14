@@ -121,7 +121,7 @@ protected void onCreate(Bundle savedInstanceState) {
 			
 			setContentView(view2);
 			titleView=(TextView)findViewById(R.id.tvActionBarTitle);
-			titleView.setText("声音传感器");
+			titleView.setText("安保系统");
 			ProcessView2();
 			
 			
