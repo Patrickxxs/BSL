@@ -136,10 +136,9 @@ public final class R {
     public static final int sure=0x7f03001d;
     public static final int sure1=0x7f03001e;
     public static final int sure_2=0x7f03001f;
-    public static final int textLogo=0x7f030020;
-    public static final int titleImgSiftIcon=0x7f030021;
-    public static final int toggleButton1=0x7f030022;
-    public static final int tvActionBarTitle=0x7f030023;
+    public static final int titleImgSiftIcon=0x7f030020;
+    public static final int toggleButton1=0x7f030021;
+    public static final int tvActionBarTitle=0x7f030022;
   }
   public static final class layout {
     public static final int activity_login=0x7f040000;
