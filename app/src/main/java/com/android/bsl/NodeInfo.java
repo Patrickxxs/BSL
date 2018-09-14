@@ -19,25 +19,8 @@ public class NodeInfo implements Parcelable{
 	private int mada_sudu;
 	private byte computerState;
 	private byte KongtiaoState;
-	private byte SoundState;
-
-    public String getInfo_1() {
-        return info_1;
-    }
-
-    public void setInfo_1(String info_1) {
-        this.info_1 = info_1;
-    }
-
-    public byte getSoundState() {
-        return SoundState;
-    }
-
-    public void setSoundState(byte soundState) {
-        SoundState = soundState;
-    }
-
-    public long getLastRecordTime() {
+	
+	public long getLastRecordTime() {
 		return lastRecordTime;
 	}
 
@@ -159,7 +142,7 @@ public class NodeInfo implements Parcelable{
 	}
 	
 	 public static final Parcelable.Creator<NodeInfo> CREATOR = new Parcelable.Creator<NodeInfo>() {   
-		//Creator
+		//��дCreator
 		  
 		        @Override  
 		        public NodeInfo createFromParcel(Parcel source) {   

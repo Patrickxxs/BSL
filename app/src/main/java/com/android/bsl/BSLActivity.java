@@ -109,12 +109,12 @@ public class BSLActivity extends Activity implements OnClickListener {
 					}
 					else if(nodeinfo.getType()==0x0B)
 					{
-						ControlInterface.currentUiName="温湿度管理";
+						ControlInterface.currentUiName="温湿度传感器";
 						
 					}
 					else if(nodeinfo.getType()==0x13)
 					{
-						ControlInterface.currentUiName="灯光管理";
+						ControlInterface.currentUiName="光照传感器";
 					}
 					
 					intent.setClass(BSLActivity.this, ControlInterface.class);

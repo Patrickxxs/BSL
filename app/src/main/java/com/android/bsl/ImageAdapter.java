@@ -81,7 +81,7 @@ public class ImageAdapter extends BaseAdapter{
 	    deafaultPaint.setColor(Color.RED); 
         canvas.drawText("场景", width , height,  
         		deafaultPaint);  
-       // canvas.save(Canvas.ALL_SAVE_FLAG);
+//        canvas.save(Canvas.ALL_SAVE_FLAG);
         canvas.restore(); 
 	      //添加倒影
 	    //  canvas.drawBitmap(reflectionImage, 0, height + reflectionGap, null);

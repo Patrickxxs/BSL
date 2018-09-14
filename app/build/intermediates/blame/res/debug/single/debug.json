@@ -8,32 +8,32 @@
         "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\login.jpg"
     },
     {
-        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_jiasudu.jpg.flat",
-        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\jiasudu.jpg"
-    },
-    {
         "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_computer_close.png.flat",
         "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\device_computer_close.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_jiasudu.jpg.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\jiasudu.jpg"
     },
     {
         "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\xml_input_edit_middle.xml.flat",
         "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\xml\\input_edit_middle.xml"
     },
     {
-        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_topbar.9.png.flat",
         "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\topbar.9.png"
     },
     {
-        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input_top_default.9.png.flat",
-        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\input_top_default.9.png"
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_shutter_mid.png.flat",
         "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\device_shutter_mid.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input_top_default.9.png.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\input_top_default.9.png"
     },
     {
         "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tuoluo.jpg.flat",
@@ -246,6 +246,10 @@
     {
         "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_light.png.flat",
         "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-hdpi\\light.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_control.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\layout\\camera_control.xml"
     },
     {
         "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loginbackground.jpg.flat",

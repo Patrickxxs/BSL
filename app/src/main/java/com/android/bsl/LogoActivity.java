@@ -1,20 +1,21 @@
 package com.android.bsl;
 import android.app.Activity;
 import android.content.Intent;
-
-
+import android.graphics.BitmapFactory;
+import android.graphics.drawable.BitmapDrawable;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.widget.ImageView;
-
+import android.widget.TextView;
 
 public class LogoActivity extends Activity{
 
 	
 	private ImageView mImgLogo;
 	
-
+	private boolean mIsActionFinish = false;
+	private boolean mIsInitFinish = false;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -30,15 +31,13 @@ public class LogoActivity extends Activity{
 		//TextView tv = (TextView)findViewById(R.id.textView);
 		//tv.setSelected(true);
 
-		mImgLogo = findViewById(R.id.imgLogo);
+		mImgLogo = (ImageView)findViewById(R.id.imgLogo);
 		mImgLogo.setImageResource(R.drawable.login);
-
-		//加载初始化图片
 		mHandler.sendEmptyMessageDelayed(0, 3000);
 		//mHandler.sendEmptyMessage(1);
 	}
 
-	 Handler mHandler = new Handler(){
+	Handler mHandler = new Handler(){
     
 		@Override
 		public void handleMessage(Message msg) {

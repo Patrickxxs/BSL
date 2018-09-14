@@ -697,7 +697,7 @@ public class ClientThread extends Thread {
 			break;*/
 
 		case (byte) 0x0b: // SHT10温湿度传感器(高精度)
-			StrSENSOR_TYPE = "温湿度管理";
+			StrSENSOR_TYPE = "温湿度传感器";
 
 			SensorData = (short) (((DecPacket[i + 2] & 0xff) << 8) + ((DecPacket[i + 3]) & 0xff));
 			Temperature = (float) (-39.70 + 0.01 * SensorData);
@@ -778,7 +778,7 @@ public class ClientThread extends Thread {
 			StrSENSOR_DATA = "";
 			break;*/
 		case (byte) 0x13:
-			StrSENSOR_TYPE = "灯光管理";
+			StrSENSOR_TYPE = "光照传感器";
 			StrSENSOR_DATA = "光强："
 					+ ((int) (((DecPacket[i] & 0xff) << 8) + ((DecPacket[i + 1]) & 0xff)))
 					+ "lx";
@@ -792,7 +792,7 @@ public class ClientThread extends Thread {
 				node.setDengState((byte) 0);
 			}
 			break;
-		case (byte) 0x14:
+		/*case (byte) 0x14:
 			StrSENSOR_TYPE = "声音传感器";
 			str = "0x" + Byte2HexStr(DecPacket[i]);
 			if ("0x00".equals(str)) {
@@ -800,7 +800,7 @@ public class ClientThread extends Thread {
 			} else if ("0x01".equals(str)) {
 				StrSENSOR_DATA = "未检测到声音";
 			}
-			break;
+			break;*/
 		case (byte) 0x15:
 			StrSENSOR_TYPE = "红外测距传感器";
 			SensorData = (short) (((DecPacket[i] & 0xff) << 8) + ((DecPacket[i + 1]) & 0xff));
@@ -1169,16 +1169,6 @@ public class ClientThread extends Thread {
 			msg.obj = node;
 			if (ControlInterface.handler != null
 					&& ControlInterface.currentUiName.equals("温湿度传感器"))
-				ControlInterface.handler.sendMessage(msg);
-
-		}
-		if (node.getType() == 0x14) {
-
-			Message msg = new Message();
-			msg.what = 0x2225;
-			msg.obj = node;
-			if (ControlInterface.handler != null
-					&& ControlInterface.currentUiName.equals("声音传感器"))
 				ControlInterface.handler.sendMessage(msg);
 
 		}

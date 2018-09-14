@@ -125,14 +125,14 @@ public final class R {
     public static final int light1=0x7f030012;
     public static final int mylist=0x7f030013;
     public static final int open1=0x7f030014;
-    public static final int rb1=0x7f030015;
-    public static final int rb2=0x7f030016;
-    public static final int rg=0x7f030017;
-    public static final int sceneName=0x7f030018;
-    public static final int sensor_address=0x7f030019;
-    public static final int sensor_icon=0x7f03001a;
-    public static final int sensor_info=0x7f03001b;
-    public static final int sensor_name=0x7f03001c;
+    public static final int sceneName=0x7f030015;
+    public static final int securitymode=0x7f030016;
+    public static final int sensor_address=0x7f030017;
+    public static final int sensor_icon=0x7f030018;
+    public static final int sensor_info=0x7f030019;
+    public static final int sensor_name=0x7f03001a;
+    public static final int soundInfo=0x7f03001b;
+    public static final int soundState=0x7f03001c;
     public static final int sure=0x7f03001d;
     public static final int sure1=0x7f03001e;
     public static final int sure_2=0x7f03001f;
@@ -142,14 +142,15 @@ public final class R {
   }
   public static final class layout {
     public static final int activity_login=0x7f040000;
-    public static final int deng_control=0x7f040001;
-    public static final int distance_control=0x7f040002;
-    public static final int listitem=0x7f040003;
-    public static final int logo_layout=0x7f040004;
-    public static final int main=0x7f040005;
-    public static final int main2=0x7f040006;
-    public static final int microwill_actionbar=0x7f040007;
-    public static final int temperature_control=0x7f040008;
+    public static final int camera_control=0x7f040001;
+    public static final int deng_control=0x7f040002;
+    public static final int distance_control=0x7f040003;
+    public static final int listitem=0x7f040004;
+    public static final int logo_layout=0x7f040005;
+    public static final int main=0x7f040006;
+    public static final int main2=0x7f040007;
+    public static final int microwill_actionbar=0x7f040008;
+    public static final int temperature_control=0x7f040009;
   }
   public static final class string {
     public static final int app_name=0x7f050000;
