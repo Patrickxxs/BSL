@@ -22,7 +22,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
                 android:textSize="18sp" 
-                android:textColor="#000000"/>
+                android:textColor="#ff88ff"/>
         </TableRow>
 
         <TableRow
@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
                 android:textSize="18sp" 
-                android:textColor="#000000"/>
+                android:textColor="#ffffff"/>
 
                
 
@@ -82,53 +82,51 @@
 
         </TableRow>
 
-        <!-- <TableRow
+        <TableRow
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp" >
+            <!--
+                       <TextView
+                           android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:layout_marginLeft="8dp"
+                           android:layout_marginTop="8dp"
+                           android:text="选择空调模式："
+                           android:textSize="18sp" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="8dp"
-                android:layout_marginTop="8dp"
-                android:text="选择空调模式："
-                android:textSize="18sp" />
+                       <RadioGroup
+                           android:id="@+id/rg"
+                           android:layout_width="fill_parent"
+                           android:layout_height="wrap_content"
+                           android:layout_marginLeft="2dp"
+                           android:orientation="horizontal" >
 
-            <RadioGroup
-                android:id="@+id/rg"
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="2dp"
-                android:orientation="horizontal" >
+                           <RadioButton
+                               android:id="@+id/rb1"
+                               android:layout_width="wrap_content"
+                               android:layout_height="wrap_content"
+                               android:checked="true"
+                               android:paddingLeft="10dp"
+                               android:paddingRight="10dp"
+                               android:text="冷风" />
 
-                <RadioButton
-                    android:id="@+id/rb1"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:checked="true"
-                    android:paddingLeft="10dp"
-                    android:paddingRight="10dp"
-                    android:text="冷风" />
+                           <RadioButton
+                               android:id="@+id/rb2"
+                               android:layout_width="wrap_content"
+                               android:layout_height="wrap_content"
+                               android:paddingLeft="10dp"
+                               android:paddingRight="10dp"
+                               android:text="热风" />
+                       </RadioGroup>
 
-                <RadioButton
-                    android:id="@+id/rb2"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:paddingLeft="10dp"
-                    android:paddingRight="10dp"
-                    android:text="热风" />
-            </RadioGroup>
-
-        </TableRow>
-         -->
-
-        <Button
+                       -->
+            <Button
             android:id="@+id/open1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="left"
-            android:layout_marginLeft="20dp"
+            android:layout_marginLeft="60dp"
             android:layout_marginRight="20dp"
             android:layout_marginTop="4dp"
             android:text="打开空调" />
@@ -138,10 +136,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="right"
-            android:layout_marginLeft="20dp"
+            android:layout_marginLeft="0dp"
             android:layout_marginRight="20dp"
             android:layout_marginTop="4dp"
             android:text="关闭空调" />
+        </TableRow>
+
+
+
 
         <!-- <Button
             android:id="@+id/open2"
@@ -170,6 +172,7 @@
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
              android:layout_marginTop="4dp"
+
             android:text="自动控制" />
 
     </TableLayout>

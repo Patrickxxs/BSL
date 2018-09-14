@@ -102,7 +102,7 @@ protected void onCreate(Bundle savedInstanceState) {
 		
 			setContentView(view3);
 			titleView=(TextView)findViewById(R.id.tvActionBarTitle);
-			titleView.setText("温湿度传感器");
+			titleView.setText("空调控制器");
 			ProcessView3(nodeinfo);
 			
 			
@@ -111,7 +111,7 @@ protected void onCreate(Bundle savedInstanceState) {
 			
 			setContentView(view2);
 			titleView=(TextView)findViewById(R.id.tvActionBarTitle);
-			titleView.setText("光照传感器");
+			titleView.setText("灯光控制器");
 			ProcessView2();
 			
 			

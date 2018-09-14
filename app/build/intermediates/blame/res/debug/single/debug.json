@@ -304,6 +304,10 @@
         "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_1.png"
     },
     {
+        "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_style.xml.flat",
+        "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable\\my_style.xml"
+    },
+    {
         "merged": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_room_gallery_11.png.flat",
         "source": "C:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\src\\main\\res\\drawable-mdpi\\room_gallery_11.png"
     }

@@ -1,4 +1,4 @@
-#Fri Sep 14 16:17:25 CST 2018
-base.0=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\39
+#Fri Sep 14 20:08:34 CST 2018
+base.0=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\58
 path.0=classes.dex
 renamed.0=classes.dex
