@@ -1,17 +1,17 @@
 #Internal package file, do not edit.
-#Tue Sep 11 20:26:17 CST 2018
-2.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\34
+#Fri Sep 14 16:17:28 CST 2018
+2.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\54
 5.set=DEX
 0.path=classes.dex
 2.baseType=DIRECTORY
-3.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
+3.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\53
 2.set=DEX
 1.path=classes.dex
-4.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\33
+4.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\50
 count=6
 5.baseType=DIRECTORY
 2.path=classes.dex
-5.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\30
+5.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\52
 4.set=DEX
 3.path=classes.dex
 3.baseType=DIRECTORY
@@ -19,9 +19,9 @@ count=6
 4.path=classes.dex
 1.baseType=DIRECTORY
 5.path=classes.dex
-0.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\35
+0.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\51
 0.baseType=DIRECTORY
 3.set=DEX
-1.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\32
+1.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\49
 4.baseType=DIRECTORY
 0.set=DEX

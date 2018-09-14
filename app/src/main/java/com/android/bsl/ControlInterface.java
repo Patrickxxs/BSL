@@ -316,7 +316,7 @@ private void ProcessView2()    //光照
 
 }
 
-private void ProcessView3(NodeInfo nodeinfo)
+private void ProcessView3(NodeInfo nodeinfo)  //空调控制
 {
 	info=(TextView)view3.findViewById(R.id.info);
 	info.setText(nodeinfo.getInfo());
@@ -405,64 +405,52 @@ private void ProcessView3(NodeInfo nodeinfo)
 private void changeDengUIState()
 {
 	Log.i(TAG,"YYYYYYYYYYYYYYYY"+nodeinfo.getDengState());
-//	if(nodeinfo.getDengState()!=dengState)
-//	{
+
 	
 		dengState=nodeinfo.getDengState();
 		if(dengState!=0)
 		{
-		//	io_deng1.setBackgroundDrawable(getResources().getDrawable(R.drawable.device_wallbtn_close));
+
 			io_deng1.setImageResource(R.drawable.device_wallbtn_close);
 			io_btn1.setChecked(false);
 		}
 		else {
 			io_deng1.setImageResource(R.drawable.device_wallbtn_open);
-	//		io_btn1.setBackgroundDrawable(getResources().getDrawable(R.drawable.device_wallbtn_open));
+
 			io_btn1.setChecked(true);
 		}
 	
-	//}
+
 	}
 
 private void changeComputerUIState()
 {
 	Log.i(TAG,"YYYYYYYYYYYYYYYY"+nodeinfo.getComputerState());
-//	if(nodeinfo.getDengState()!=dengState)
-//	{
+
 	
 		computerState=nodeinfo.getComputerState();
 		if(computerState!=0)
 		{
-		//	io_deng1.setBackgroundDrawable(getResources().getDrawable(R.drawable.device_wallbtn_close));
 			io_computer1.setImageResource(R.drawable.device_computer_close);
 			io_btn2.setChecked(false);
 		}
 		else {
 			io_computer1.setImageResource(R.drawable.device_computer_open);
-	//		io_btn1.setBackgroundDrawable(getResources().getDrawable(R.drawable.device_wallbtn_open));
 			io_btn2.setChecked(true);
 		}
-	
-	//}
+
 	}
 private void changeKongtiaoUIState(){
 	Log.i(TAG,"YYYYYYYYYYYYYYYY"+nodeinfo.getKongtiaoState());
-//	if(nodeinfo.getDengState()!=dengState)
-//	{
-	
+
 	KongtiaoState=nodeinfo.getKongtiaoState();
 		if(KongtiaoState!=0)
 		{
-		//	io_deng1.setBackgroundDrawable(getResources().getDrawable(R.drawable.device_wallbtn_close));
-			//io_kongtiao1.setImageResource(R.drawable.device_computer_close);
 			kongtiaostate.setText("空调状态：开启");
-			//io_btn3.setChecked(false);
 		}
 		else {
 			kongtiaostate.setText("空调状态：关闭");
 		}
-	
-	//}
 }
 private class MyOnClickListener implements View.OnClickListener
 {
