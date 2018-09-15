@@ -1,4 +1,4 @@
-#Fri Sep 14 21:04:56 CST 2018
+#Sat Sep 15 09:22:04 CST 2018
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\68
-base.4=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\71
+base.5=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\71
+base.4=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\68
 base.3=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\73
 base.2=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\70
-base.1=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\72
-base.0=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\69
+base.1=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\69
+base.0=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\72
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex

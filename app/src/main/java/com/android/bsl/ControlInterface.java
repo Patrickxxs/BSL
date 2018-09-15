@@ -36,7 +36,7 @@ private int currentProcess;
 private TextView titleView;
 private Timer timer;
 public static Handler handler;
-private View view1,view2,view3;
+private View view1,view2,view3,view4;
 RadioGroup mada_radioGroup;
 RadioButton mada_rb1;
 RadioButton mada_bb2;
@@ -51,9 +51,11 @@ private ToggleButton io_btn2;
 private Button io_sureBtn;
 private Button io_sure1Btn;
 private Button io_sure2Btn;
+private Button io_sure3Btn;
 
 private TextView info;
 private TextView info_1;
+private  TextView soundInfo;
 private TextView kongtiaostate;
 private TextView jiashistate,distance;
 private EditText et=null;
@@ -86,7 +88,7 @@ protected void onCreate(Bundle savedInstanceState) {
 	view1=getLayoutInflater().inflate(R.layout.distance_control, null);
 	view2=getLayoutInflater().inflate(R.layout.deng_control, null);
 	view3=getLayoutInflater().inflate(R.layout.temperature_control, null);
-	//view4=getLayoutInflater().inflate(R.layout.distance_control,null);
+	view4=getLayoutInflater().inflate(R.layout.camera_control,null);
 	
 	switch(sensorType)
 	{
@@ -119,10 +121,10 @@ protected void onCreate(Bundle savedInstanceState) {
 			
 		case 0x14:
 			
-			setContentView(view2);
+			setContentView(view4);
 			titleView=(TextView)findViewById(R.id.tvActionBarTitle);
 			titleView.setText("声音传感器");
-			ProcessView2();
+			ProcessView4();
 			
 			
 			break;
@@ -181,6 +183,20 @@ protected void onCreate(Bundle savedInstanceState) {
 				}
 				
 				break;
+			case 0x2225:
+                    nodeinfo=(NodeInfo)msg.obj;
+                    soundInfo.setText(nodeinfo.getInfo());
+                    if(io_sure3Btn.getText()=="关闭安保模式")
+                    {
+                        changeCameraUIState();
+                    }
+                    else
+                    {
+
+                    }
+
+                    break;
+
 			default :
 					
 				break;
@@ -402,6 +418,59 @@ private void ProcessView3(NodeInfo nodeinfo)
 	});*/
 }
 
+	private void ProcessView4()    //声音
+	{
+		soundInfo=(TextView)view4.findViewById(R.id.soundInfo);
+		soundInfo.setText(nodeinfo.getInfo());
+		//Log.i(TAG,"YYYYYYYYYYYYYYYY"+nodeinfo.getDengState());
+		io_deng1=(ImageView)view4.findViewById(R.id.camera);
+
+
+
+		io_sure3Btn=(Button)view4.findViewById(R.id.securitymode);
+
+		io_sure3Btn.setOnClickListener(new MyOnClickListener(){
+			@Override
+			public void onClick(View v)
+			{
+				if(io_sure3Btn.getText()=="安保模式")
+				{
+					io_sure3Btn.setText("关闭安保模式");
+
+					changeCameraUIState();
+				}
+				else
+				{
+					io_sure3Btn.setText("安保模式");
+
+				}
+
+
+			}
+		});
+
+
+
+
+	}
+
+
+private  void changeCameraUIState()
+{
+    Log.i(TAG,"YYYYYYYYYYYYYYYY"+nodeinfo.getDengState());
+
+   //
+    if(nodeinfo.getInfo() == "检测到声音")
+    {
+        io_deng1.setImageResource(R.drawable.device_wallbtn_close);
+       // io_btn1.setChecked(false);
+    }
+    else {
+        io_deng1.setImageResource(R.drawable.device_wallbtn_open);
+       // io_btn1.setChecked(true);
+    }
+
+}
 private void changeDengUIState()
 {
 	Log.i(TAG,"YYYYYYYYYYYYYYYY"+nodeinfo.getDengState());

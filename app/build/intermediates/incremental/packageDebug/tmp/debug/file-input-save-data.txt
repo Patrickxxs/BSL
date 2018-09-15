@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Sep 14 21:04:56 CST 2018
+#Sat Sep 15 09:22:04 CST 2018
 2.base=C\:\\Users\\xiexi\\Desktop\\BSL-qs-as\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\70
 5.set=DEX
 0.path=classes.dex
